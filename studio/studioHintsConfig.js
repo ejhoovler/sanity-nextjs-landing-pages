@@ -1,3 +1,3 @@
 export default {
-  templateRepoId: 'ejhoovler/sanity-nextjs-landing-pages'
+  templateRepoId: 'sanity-io/sanity-nextjs-landing-pages'
 }
